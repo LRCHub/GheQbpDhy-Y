@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Combo",
+  "base_artist": "MFS",
+  "createdAt": "2025-12-02T07:49:30.360753Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "EL TORO COMBO MEAL (feat. Mavi)",
+      "artist": "Earl Sweatshirt feat. Mavi",
+      "has_synced": true,
+      "path": "select/01_EL_TORO_COMBO_MEAL_(feat._Mavi)_Earl_Sweatshirt_feat._Mavi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "EL TORO COMBO MEAL (feat. Mavi)",
+      "artist": "Earl Sweatshirt",
+      "has_synced": true,
+      "path": "select/02_EL_TORO_COMBO_MEAL_(feat._Mavi)_Earl_Sweatshirt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Combo Platter (Girlysound)",
+      "artist": "Liz Phair",
+      "has_synced": false,
+      "path": "select/03_Combo_Platter_(Girlysound)_Liz_Phair.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nabat Combo",
+      "artist": "Nabat",
+      "has_synced": false,
+      "path": "select/04_Nabat_Combo_Nabat.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "T & P Combo",
+      "artist": "311",
+      "has_synced": false,
+      "path": "select/05_T_&_P_Combo_311.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Gozar Con Mi Combo",
+      "artist": "Cachao",
+      "has_synced": true,
+      "path": "select/06_A_Gozar_Con_Mi_Combo_Cachao.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Remains of the Day (Combo Lounge Version)",
+      "artist": "Danny Elfman",
+      "has_synced": false,
+      "path": "select/07_Remains_of_the_Day_(Combo_Lounge_Version)_Danny_Elfman.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "EL TORO COMBO MEAL",
+      "artist": "Earl Sweatshirt",
+      "has_synced": true,
+      "path": "select/08_EL_TORO_COMBO_MEAL_Earl_Sweatshirt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jack Harlow Combo Meal",
+      "artist": "JPEGMAFIA feat. Danny Brown",
+      "has_synced": true,
+      "path": "select/09_Jack_Harlow_Combo_Meal_JPEGMAFIA_feat._Danny_Brown.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jack Harlow Combo Meal",
+      "artist": "JPEGMAFIA & Danny Brown",
+      "has_synced": true,
+      "path": "select/10_Jack_Harlow_Combo_Meal_JPEGMAFIA_&_Danny_Brown.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take Show Host (Combo remix)",
+      "artist": "Radiohead",
+      "has_synced": false,
+      "path": "select/11_Take_Show_Host_(Combo_remix)_Radiohead.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Combo Breaker",
+      "artist": "9tails",
+      "has_synced": false,
+      "path": "select/12_Combo_Breaker_9tails.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jack Harlow Combo Meal",
+      "artist": "JPEGMAFIA",
+      "has_synced": true,
+      "path": "select/13_Jack_Harlow_Combo_Meal_JPEGMAFIA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jack Harlow Combo Meal",
+      "artist": "Danny Brown / JPEGMAFIA",
+      "has_synced": true,
+      "path": "select/14_Jack_Harlow_Combo_Meal_Danny_Brown___JPEGMAFIA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "EL TORO COMBO MEAL",
+      "artist": "Earl Sweatshirt feat. Mavi",
+      "has_synced": true,
+      "path": "select/15_EL_TORO_COMBO_MEAL_Earl_Sweatshirt_feat._Mavi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Feel Fine (Remixed By Dead Combo)",
+      "artist": "Slick Idiot",
+      "has_synced": false,
+      "path": "select/16_I_Feel_Fine_(Remixed_By_Dead_Combo)_Slick_Idiot.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Combo",
+      "artist": "MFS",
+      "has_synced": false,
+      "path": "select/pl_01_Combo_MFS.txt"
+    }
+  ]
+}
