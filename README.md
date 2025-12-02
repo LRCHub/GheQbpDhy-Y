@@ -1,0 +1,56 @@
+# MFS – Combo
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I make for the magic
+All for automatic
+I know who am i
+Go back basic
+じゃー今の今からmy time
+今までよりlook at me look at me
+どう転んだってno die
+だからlook at me look at me
+派手に遊ぶジャングル
+またトラブルphone call？
+Un)あなたどこからきたーの?
+イマジネーションが足らんティーノ
+どっからどうみたってラッパー
+自己紹介よりほらもうマッパ
+後の祭りおどったrara
+余韻全然抜けないなぁなぁ
+巻き込んで火をつけるmy love
+朝焼け酒空けたらタァタァ
+Un〜さらにもっと自由
+私が生きていく理由
+飲んで飲んでも喉乾くから
+潤すのシンプル
+いいじゃんいいじゃん
+理由なくていいじゃん
+cause i'm a リーダー
+いいじゃんいいじゃん
+みんないいじゃん
+ここは全部freedom
+足りないならmore feel me
+重たいけどdo you catch me？
+瞬いてまたフロアへ
+開放的君とAh Yeah
+あなたがー気になるのは
+私が何も気にしないから
+あなたがーほしがるのは
+私なにも欲しがらないから
+その次にロマンスが大事
+私らはバランスの名人
+too much
+お金稼ぎだけの
+死んだアドバイスなら結構　ahhhh
+遊ぶだけget マッスル
+この体でハッスル
+擦れた邪念はfuck off
+この晴れた報いは妥当
+Rambo〜♪
+I make for the magic
+All for automatic
+I know who am i
+Go back basic
+```
